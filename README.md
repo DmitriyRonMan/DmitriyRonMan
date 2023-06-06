@@ -20,7 +20,7 @@
 [Командный проект для тестировщиков](https://github.com/Helena01101986/javaqa-team-diplom)
 
 В рамках командного проекта мной было выполнено:
-- Командное планирование и взаимодействие с коллегой по проекту через GIT.
+- Командное планирование и взаимодействие с коллегой по проекту через Git.
 - Поиск и заведение баг-репортов в [Issue](https://github.com/Helena01101986/javaqa-team-diplom/issues?q=is%3Aissue+is%3Aclosed).
 - Исправление java кода приложения.
 - Написание автотестов.
@@ -48,6 +48,21 @@
 
 # Сертификаты и рекомендательные письма
 
+[Тестировщик ПО](https://github.com/DmitriyRonMan/DmitriyRonMan/blob/main/pic/certificate.pdf)
+
+[HTML и CSS для тестировщиков](https://github.com/DmitriyRonMan/DmitriyRonMan/blob/main/pic/certificate3.pdf)
+
+[Ручное тестирование веб-приложений](https://github.com/DmitriyRonMan/DmitriyRonMan/blob/main/pic/certificate4.pdf)
+
+[Git-система контроля версий](https://github.com/DmitriyRonMan/DmitriyRonMan/blob/main/pic/certificate5.pdf)
+
+[Java для тестировщиков](https://github.com/DmitriyRonMan/DmitriyRonMan/blob/main/pic/certificate6.pdf)
+
+[Автоматизированное тестирование](https://github.com/DmitriyRonMan/DmitriyRonMan/blob/main/pic/certificate7.pdf)
+
+[Python-разработка для начинающих](https://github.com/DmitriyRonMan/DmitriyRonMan/blob/main/pic/certificate8.pdf)
+
+[Python-разработка для начинающих](https://github.com/DmitriyRonMan/DmitriyRonMan/blob/main/pic/certificate8.pdf)
 
 
 # Контакты
