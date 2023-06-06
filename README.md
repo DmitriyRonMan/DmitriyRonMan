@@ -62,8 +62,6 @@
 
 [Python-разработка для начинающих](https://github.com/DmitriyRonMan/DmitriyRonMan/blob/main/pic/certificate8.pdf)
 
-[Python-разработка для начинающих](https://github.com/DmitriyRonMan/DmitriyRonMan/blob/main/pic/certificate8.pdf)
-
 [Рекомендательное письмо от АО "КТ-Беспилотные Системы"](https://github.com/DmitriyRonMan/DmitriyRonMan/blob/main/pic/KolesnikovDmitriy.pdf)
 
 
