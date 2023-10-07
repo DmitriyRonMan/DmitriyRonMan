@@ -64,6 +64,18 @@
 
 </details>
 
+[Тестовое задание для BIA Technologies](https://github.com/DmitriyRonMan/-Test_task_for_BIA_Tech)
+<details>
+     
+<summary>На данном проекте мной решались следующие задачи:</summary>
+     
+- Написание тест-кейсов для любого функционала.
+- Оформление баг-репортов.
+- Написание автотестов в любом объеме на какой-либо функционал.
+
+</details>
+
+
 [Учебные работы](https://github.com/DmitriyRonMan?tab=repositories)
 
 # Сертификаты и рекомендательные письма
