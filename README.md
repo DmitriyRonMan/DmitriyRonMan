@@ -96,6 +96,10 @@
 
 [Рекомендательное письмо от АО "КТ-Беспилотные Системы"](https://github.com/DmitriyRonMan/DmitriyRonMan/blob/main/pic/KolesnikovDmitriy.pdf)
 
+[Рекомендательное письмо от E-PR Online](https://github.com/DmitriyRonMan/DmitriyRonMan/blob/main/pic/Kolesnikov%20Dmitry%20%20(E-PR%20online).pdf)
+
+[Сертификат от CrowdTesting](https://github.com/DmitriyRonMan/DmitriyRonMan/blob/main/pic/Kolesnikov%20Dmitrij%20Sergeevich.pdf)
+
 
 # Контакты
      
